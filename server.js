@@ -5,7 +5,7 @@ const cors = require('cors');
 const app = express();
 const PUERTO = process.env.PORT || 3000;
 
-git
+
 app.use(cors());
 app.use(express.json());
 
